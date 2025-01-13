@@ -3,6 +3,7 @@
 /**/*.pyc
 .venv/
 venv/
+dist/
 
 # IDE
 .idea
